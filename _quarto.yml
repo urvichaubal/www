@@ -6,7 +6,7 @@ project:
 website:
   title: "Urvi Chaubal"
   navbar:
-    background: "#746dd6"
+    background: "#796dd6"
     foreground: "#ffffff"
     left:
       - href: index.qmd
