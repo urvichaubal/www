@@ -1,0 +1,20 @@
+---
+title: "Urvi Chaubal"
+about: 
+  template: solana
+  image: assets/linkedinheadshot.jpeg
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:urvi.chaubal@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/urvichaubal?tab=repositories
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/urvi-chaubal-39b9b6222/
+---
+
+Hello and welcome to my website! I am currently a junior at the University of Illinois Urbana-Champaign studying Information Science and Data Science with a minors in Computer Science and Political Science.
+

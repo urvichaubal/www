@@ -1,0 +1,15 @@
+---
+title: "EDA Project at CMU RES SURE 2024"
+description: "Exploratory data analysis project on hospital ratings"
+date: June 2024
+about: 
+  template: solana
+  links: 
+    - icon: github
+      text: "Github"
+      href: https://github.com/jessgl16/SURE-2024-EDA-Project-1/tree/main
+    - icon: laptop
+      text: Slides
+      href: projects/Bridges-EDA/EDAHospitalRatingsPresentation.pdf
+      
+---

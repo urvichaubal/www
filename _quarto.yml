@@ -1,0 +1,34 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Urvi Chaubal"
+  navbar:
+    background: "#746dd6"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/urvi-chaubal-39b9b6222/
+      - icon: github
+        href: https://github.com/urvichaubal?tab=repositories
+      - icon: file-pdf
+        href: assets/resume.pdf
+        
+      
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,22 @@
+---
+title: "Capstone Project"
+description: "Capstone Project on Mental Heath for SURE 2024 at CMU"
+date: July 2024
+about: 
+  template: solana
+  links: 
+    - icon: github
+      text: "Github"
+      href: https://github.com/llch-24/Project3_MentalHealth/tree/main
+    - icon: laptop
+      text: Slides
+      href: bit.ly/mnbvpoiu
+    - icon: file
+      text: Poster
+      href: bit.ly/mnbvpoiu
+    - icon: pencil
+      text: Report
+      href: bit.ly/mnbvpoiu
+---
+
+Insert description of project other stuff etc.
